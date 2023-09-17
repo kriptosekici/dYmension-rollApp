@@ -63,7 +63,7 @@ dymd version
 ```
 ```console
 # Node isminizi girin tırnakları kaldırın
-dymd init kriptosekici --chain-id=froopyland_100-1
+dymd init arn --chain-id=froopyland_100-1
 ```
 
 <h1 align="center"> Gerekli ayarlamalar </h1>
